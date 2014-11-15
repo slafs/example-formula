@@ -1,0 +1,6 @@
+example:
+  lookup:
+    pkg: myexample
+    conf_file: /usr/local/etc/example/example.conf
+  config:
+    key: othervalue
