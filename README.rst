@@ -2,7 +2,8 @@
 example
 =======
 
-This is an example SaltStack formula created from a cookiecutter template
+This is an example SaltStack formula created from a cookiecutter template. 
+See https://github.com/slafs/cookiecutter-saltstack-formula.
 
 .. note::
 
