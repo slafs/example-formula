@@ -2,8 +2,7 @@
 example
 =======
 
-This is an example SaltStack formula created from a cookiecutter template. 
-See https://github.com/slafs/cookiecutter-saltstack-formula.
+SaltStack Formula Boilerplate contains all the boilerplate you need to create a SaltStack Formula.
 
 .. note::
 
@@ -26,3 +25,11 @@ TODO - add description of this state
 ----------------
 
 TODO - add description of this state
+
+
+Template
+========
+
+This formula was created from a cookiecutter template.
+
+See https://github.com/slafs/cookiecutter-saltstack-formula.
